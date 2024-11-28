@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+        <item>30%</item>
+        <item>35%</item>
+        <item>40%</item>
+        <item>45%</item>
+        <item>50%</item>
+        <item>55%</item>
+        <item>60%</item>
+        <item>65%</item>
+        <item>70%</item>
+        <item>75%</item>
+        <item>80%</item>
+        <item>85%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>100%</item>
+
+    </string-array>
+    <string name="app_name">Calculate tip</string>
+    <string name="tip_calculator">"tip calculator"</string>
+    <string name="enter_total_bill">enter total bill</string>
+    <string name="select_tip_percentage">select tip percentage</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip">tip</string>
+    <string name="total_to_pay">total to pay</string>
+    <string name="error_message">Please enter a valid value</string>
+    <string name="Amount_entered">Amount entered</string>
+</resources>
